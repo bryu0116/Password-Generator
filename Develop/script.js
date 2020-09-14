@@ -14,8 +14,6 @@ var confirmNumericCharacter;
 var confirmUpperCase;
 var confirmLowerCase;
 
-
-
 //Promp comfirming how many characters the user would like in their password
 function generatePassword() {
   var confirmLength = (prompt("How many character would you like your Password? Choose between 8 and 128"))
