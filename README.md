@@ -4,7 +4,7 @@ This is an application that generates a random password based on user-selected c
 
 
 ## Application Screenshot
-[View the deployed web application.](https://bryu0116.github.io/Password-Generator/)
+[View the deployed web application.](https://bryu0116.github.io/Password-Generator/index.html)
 
 Starting Screen:
 <img src="images/01PGStartingScreen.jpg" alt="Password Generator Starting Screen screenshot">
