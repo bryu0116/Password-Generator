@@ -4,22 +4,22 @@ This is an application that generates a random password based on user-selected c
 
 
 ## Application Screenshot
-[View the deployed web application.](https://bryu0116.github.io/Password-Generator/Assets/index.html)
+[View the deployed web application.](https://bryu0116.github.io/Password-Generator/index.html)
 
 Starting Screen:
-<img src="Assets/images/01PGStartingScreen.jpg" alt="Password Generator Starting Screen screenshot">
+<img src="images/01PGStartingScreen.jpg" alt="Password Generator Starting Screen screenshot">
 
 Entering Password:
-<img src="Assets/images/02EnteringPassword.jpg" alt="Entering Password screenshot">
+<img src="images/02EnteringPassword.jpg" alt="Entering Password screenshot">
 
 Including Special Character:
-<img src="Assets/images/03includeSC.jpg" alt="include special character screenshot">
+<img src="images/03includeSC.jpg" alt="include special character screenshot">
 
 Including Numerical Character:
-<img src="Assets/images/04includeNC.jpg" alt="include numeric character screenshot">
+<img src="images/04includeNC.jpg" alt="include numeric character screenshot">
 
 Including Lowercase Character:
-<img src="Assets/images/05includeLCC.jpg" alt="include lowercase character screenshot">
+<img src="images/05includeLCC.jpg" alt="include lowercase character screenshot">
 
 Including Uppercase Character:
-<img src="Assets/images/06includeUCC.jpg" alt="include Uppercase character screenshot">
+<img src="images/06includeUCC.jpg" alt="include Uppercase character screenshot">
